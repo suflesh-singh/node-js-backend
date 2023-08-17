@@ -39,7 +39,7 @@ app.listen(port, () => {
 });
 
 mongoose.set("strictQuery", false)
-mongoose.connect('mongodb+srv://sufleshs:Sufi1212@cluster0.em25nzh.mongodb.net/Node-Api?retryWrites=true&w=majority').then(() => {
+mongoose.connect('mongodb+srv://sufleshs:sufi@1212@cluster0.em25nzh.mongodb.net/?retryWrites=true&w=majority').then(() => {
     app.listen(port, () => {
         console.log('Node Api is running on post 3000')
     })
