@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Shivam Singh",
+        "Designation":"Web Developer",
+        "Address":"Lucknow Hazaratganj",
+        "phone":"9934939493",
+        "email":"shivamkashyap@gmail.com",
+        "description":"Experts in Javascript and Angular 15"
+      },
+      {
+        "name":"Abhishek Ojha",
+        "Designation":"Web Developer",
+        "Address":"Lucknow Gomtinagar",
+        "phone":"5655656565464",
+        "email":"abhisheOjha@gmail.com",
+        "description":"Experts in Javascript and Angular 15 and"
+      },
+      {
+        "name":"Puneet Gupta",
+        "Designation":"Web Developer",
+        "Address":"Lucknow Tedhipuliya",
+        "phone":"8765384512",
+        "email":"puneetGupta@gmail.com",
+        "description":"Experts in Javascript and Angular 15"
+      },
+      {
+        "name":"Prabhat Shukla",
+        "Designation":"Web Developer",
+        "Address":"Lucknow Trivani Nagar",
+        "phone":"9369587485",
+        "email":"prabhatshukla@gmail.com",
+        "description":"Experts in Javascript and Angular 15"
+      },
+      {
+        "name":"Rishi Raj Saxena",
+        "Designation":"Senior Software Developer",
+        "Address":"Lucknow Trivani Nagar",
+        "phone":"9369587485",
+        "email":"prabhatshukla@gmail.com",
+        "description":"Experts in Javascript and Angular 15"
+      }
+]
